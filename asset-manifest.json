@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/listr/static/css/main.bb44cbf5.css",
-    "main.js": "/listr/static/js/main.7ce639d8.js",
-    "index.html": "/listr/index.html",
-    "main.bb44cbf5.css.map": "/listr/static/css/main.bb44cbf5.css.map",
-    "main.7ce639d8.js.map": "/listr/static/js/main.7ce639d8.js.map"
+    "main.css": "/Listr/static/css/main.bb44cbf5.css",
+    "main.js": "/Listr/static/js/main.7ce639d8.js",
+    "index.html": "/Listr/index.html",
+    "main.bb44cbf5.css.map": "/Listr/static/css/main.bb44cbf5.css.map",
+    "main.7ce639d8.js.map": "/Listr/static/js/main.7ce639d8.js.map"
   },
   "entrypoints": [
     "static/css/main.bb44cbf5.css",
