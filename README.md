@@ -4,6 +4,6 @@
 
 A multi purpose list creator. Can be used to make TO-DO lists, bug trackers, general lists... 
 
-Try it [here](https://connectslide121.github.io/Listr-livedemo/) - (This is just a live demo, there in no back end. The data gets reset when page reloads)
+Try it [here](https://connectslide121.github.io/Listr-livedemo/) - (Just a live demo, there in no back end. The data gets reset when page reloads)
 
 Back-end repository [here](https://github.com/Connectslide121/Listr-API)
