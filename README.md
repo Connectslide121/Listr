@@ -27,23 +27,23 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
 
-   ```
-   git clone https://github.com/Connectslide121/Listr.git
-   ```
+```sh
+git clone https://github.com/Connectslide121/Listr.git
+```
 
 2. Navigate to the project directory:
 
-   ```sh
-   cd Listr
-   ```
+```sh
+cd Listr
+```
 
 3. Install NPM packages:
 
-   ```sh
-   npm install
-   ```
+```sh
+npm install
+```
 
-4. Start the development server:
+3. Start the development server:
 
 ```sh
 npm start
