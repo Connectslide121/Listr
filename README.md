@@ -43,7 +43,7 @@ cd Listr
 npm install
 ```
 
-3. Start the development server:
+4. Start the development server:
 
 ```sh
 npm start
