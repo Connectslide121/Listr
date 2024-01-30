@@ -26,37 +26,61 @@ The back-end code for Listr can be found in a separate repository [here](https:/
 To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
+
    ```sh
    git clone https://github.com/Connectslide121/Listr.git
    ```
 
-Navigate to the project directory:
+2. Navigate to the project directory:
+
+```sh
 cd Listr
+```
 
-Install NPM packages:
+3. Install NPM packages:
+
+```sh
 npm install
+```
 
-Start the development server:
+3. Start the development server:
+
+```sh
 npm start
+```
 
-Deployment
+## Deployment
+
 To deploy Listr to GitHub Pages, you can use the gh-pages package included in the devDependencies. Run the following command to build and deploy the application:
 
 npm run deploy
 
-Contributing
+## Contributing
+
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-License
+1. Fork the Project
+
+2. Create your Feature Branch
+
+```sh
+git checkout -b feature/AmazingFeature
+```
+
+3. Commit your Changes
+
+```sh
+git commit -m 'Add some AmazingFeature'
+```
+
+4. Push to the Branch
+
+```sh
+git push origin feature/AmazingFeature
+```
+
+5. Open a Pull Request
+
+## License
+
 Distributed under the MIT License. See LICENSE for more information.
-
-Project Link: https://github.com/Connectslide121/Listr
-
-```
-
-```
