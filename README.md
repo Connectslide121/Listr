@@ -1,8 +1,8 @@
-# Listr
-
 ![Listr Banner](https://github.com/Connectslide121/Listr/blob/master/Connect_banner_github.png)
 
 Listr is a versatile list-making application designed to cater to various needs, such as creating to-do lists, bug trackers, and general-purpose lists. It offers a user-friendly interface that allows for easy organization and tracking of tasks and items.
+
+# Listr
 
 ## Features
 
