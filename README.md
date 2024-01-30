@@ -13,7 +13,7 @@ Listr is a versatile list-making application designed to cater to various needs,
 - Filter lists by query
 - Add notes to items
 
-## Live Demo
+## Getting Started
 
 You can try out a live demo of Listr [here](https://connectslide121.github.io/Listr/). Please note that the back-end functionality has not been implemented in the live demo, the data resets on page reload.
 
@@ -21,7 +21,7 @@ You can try out a live demo of Listr [here](https://connectslide121.github.io/Li
 
 The back-end code for Listr can be found in a separate repository [here](https://github.com/Connectslide121/Listr-API).
 
-## Getting Started
+## Installation
 
 To get a local copy up and running, follow these simple steps:
 
